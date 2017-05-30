@@ -1,6 +1,6 @@
 # Status
 
-**assigned**
+Status: **assigned**
 
 # Assignment
 
