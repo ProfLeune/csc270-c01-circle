@@ -22,15 +22,17 @@ must be equal to `3.1415926`.
 
     A circle with radius 4:
        Diameter: 8.000
-       Area: 
-       Circumference: 62.832
+       Area: 50.264
+       Circumference: 25.132153
 
 # Submission
 
-Accept this submission by clicking this link. Afterwards, clone your GitHub
-repository and write your program. You MUST mark your assignment as final by
-adding the phrase "COMPLETED" to the `README.md` file. Submit your answers by
-pushing your commits to your repository. 
+Accept [this
+submission](https://classroom.github.com/assignment-invitations/554353c1763cc0609e9324f7d60f685a)
+by clicking this link. Afterwards, clone your GitHub repository and write your
+program. You MUST mark your assignment as final by adding the phrase "COMPLETED"
+to the `README.md` file. Submit your answers by pushing your commits to your
+repository. 
 
 # Grading
 
