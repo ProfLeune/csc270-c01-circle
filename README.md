@@ -17,7 +17,7 @@ must be equal to `3.1415926`.
 * MUST define RADIUS as a preprocessor symbol
 * MUST compile without warnings and errors
 * MUST contain one function for each calculation
-* MUST be called circle.c
+* MUST be called `circle.c`
 * MUST pass `make test` successfully
 
 # Sample run
