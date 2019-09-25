@@ -2,6 +2,8 @@
 
 Status: **assigned**
 
+Jira testing
+
 # Assignment
 
 Write a program in C that contains functions that calculate a circle's diameter,
